@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11ec2889-49d3-4dc4-b3f1-b3b6177bedd8" name="Changes" comment="ok" />
+    <list default="true" id="11ec2889-49d3-4dc4-b3f1-b3b6177bedd8" name="Changes" comment="ok">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/printcomb.go" beforeDir="false" afterPath="$PROJECT_DIR$/printcomb.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,9 @@
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="7" />
   </component>
   <component name="ProjectId" id="1zSNqdQknOjhqaKKUmajb75tQUq" />
   <component name="ProjectLevelVcsManager">
