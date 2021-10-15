@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="11ec2889-49d3-4dc4-b3f1-b3b6177bedd8" name="Changes" comment="ok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printcomb.go" beforeDir="false" afterPath="$PROJECT_DIR$/printcomb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/test/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
     <option name="selectedIndex" value="7" />
   </component>
   <component name="ProjectId" id="1zSNqdQknOjhqaKKUmajb75tQUq" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -69,10 +69,9 @@
       <method v="2" />
     </configuration>
     <configuration name="go build piscine/test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="tls-challenge-go-21-22" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="piscine/test" />
+      <kind value="FILE" />
+      <package value="piscine" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/test/main.go" />
       <method v="2" />
